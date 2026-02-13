@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQED9tqaa7AzMw/company-logo_200_200/B56ZsrnnmFKEAM-/0/1765963373085?e=1772668800&v=beta&t=kW01vyOhTwdRZBJAKeNYtz72-uy5dtNPRSBAZaF6lm8" alt="MedMap Banner" width="80%" height="80%" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQED9tqaa7AzMw/company-logo_200_200/B56ZsrnnmFKEAM-/0/1765963373085?e=1772668800&v=beta&t=kW01vyOhTwdRZBJAKeNYtz72-uy5dtNPRSBAZaF6lm8" alt="MedMap Banner" width="60%" height="50%" />
   <br />
   <br />
   
