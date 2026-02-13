@@ -86,7 +86,7 @@
   
 | | | |
 | :---: | :---: | :---: |
-| ![Ofentse Mashau](https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=OM) | ![Kuhlula Madumo](https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=KM) | ![Selaelo Langa](https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=SL) |
+| ![Ofentse Mashau]([https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=OM](https://media.licdn.com/dms/image/v2/D4D03AQEwW12etrXvlQ/profile-displayphoto-scale_200_200/B4DZwnLQf.KkAY-/0/1770183791174?e=1772668800&v=beta&t=NeDCrc06-id_CwZCjEIVmatqTvX2CF32aMx80rKbWgw)) | ![Kuhlula Madumo]([https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=KM](https://media.licdn.com/dms/image/v2/D4D03AQGTzjIv_r9MPQ/profile-displayphoto-scale_200_200/B4DZxRmKCaI8AY-/0/1770895489520?e=1772668800&v=beta&t=xeNU-mu6CQJwoUYJrmzKTMpCMAxKESv1x9I2aPebKu8)) | ![Selaelo Langa]([https://via.placeholder.com/150x150/1E40AF/FFFFFF?text=SL](https://media.licdn.com/dms/image/v2/D4D03AQEdzj_yzXyPWw/profile-displayphoto-scale_200_200/B4DZwkGANQJQAY-/0/1770132084597?e=1772668800&v=beta&t=JXVI1JkY5Vok5Gip6MjtcPyBP1qmrYnVVt2CPufIjMU)) |
 | **Ofentse Mashau** | **Kuhlula Madumo** | **Selaelo Langa** |
 | Founder & CEO | Co-Founder & COO | Chief Technology Officer |
 
@@ -140,17 +140,6 @@ We're always looking for passionate people to join our mission! Whether you're a
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![MedMap GitHub Stats](https://github-readme-stats.vercel.app/api?username=medmap&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medmap&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-<br />
 
 ---
 
@@ -163,8 +152,6 @@ We're always looking for passionate people to join our mission! Whether you're a
 ⭐️ If you believe in better healthcare access, star this repo! ⭐️
 
 <br />
-
-© 2024 MedMap (Pty) Ltd. All rights reserved.
 
 </div>
 
