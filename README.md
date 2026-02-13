@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="https://via.placeholder.com/1200x300/1E40AF/FFFFFF?text=MedMap+-+Healthcare+for+Everyone,+Everywhere" alt="MedMap Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQED9tqaa7AzMw/company-logo_200_200/B56ZsrnnmFKEAM-/0/1765963373085?e=1772668800&v=beta&t=kW01vyOhTwdRZBJAKeNYtz72-uy5dtNPRSBAZaF6lm8" alt="MedMap Banner" width="100%" />
   <br />
   <br />
   
@@ -172,5 +172,5 @@ We're always looking for passionate people to join our mission! Whether you're a
 
 
 
-## 🚦 Our Journey
+
 
