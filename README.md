@@ -149,7 +149,7 @@ We're always looking for passionate people to join our mission! Whether you're a
 [![Website](https://img.shields.io/badge/Visit_Us-medmap.co.za-1E40AF?style=flat-square&logo=google-chrome)](https://medmap.co.za)
 [![Email](https://img.shields.io/badge/Email-info@medmap.co.za-D14836?style=flat-square&logo=gmail)](mailto:info@medmap.co.za)
 [![Twitter](https://img.shields.io/badge/Follow_Us-@MedMapSA-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/MedMapSA)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/medmap)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/medmap-pty-ltd/)
 
 </div>
 
