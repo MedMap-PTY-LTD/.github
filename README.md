@@ -83,14 +83,29 @@
 ## 👥 Meet The Team
 
 <div align="center">
-  
-| | | |
-| :---: | :---: | :---: |
-| ![Ofentse Mashau]([https://media.licdn.com/dms/image/v2/D4D03AQEwW12etrXvlQ/profile-displayphoto-scale_200_200/B4DZwnLQf.KkAY-/0/1770183791174?e=1772668800&v=beta&t=NeDCrc06-id_CwZCjEIVmatqTvX2CF32aMx80rKbWgw]) | ![Kuhlula Madumo]([https://media.licdn.com/dms/image/v2/D4D03AQGTzjIv_r9MPQ/profile-displayphoto-scale_200_200/B4DZxRmKCaI8AY-/0/1770895489520?e=1772668800&v=beta&t=xeNU-mu6CQJwoUYJrmzKTMpCMAxKESv1x9I2aPebKu8]) | ![Selaelo Langa]([https://media.licdn.com/dms/image/v2/D4D03AQEdzj_yzXyPWw/profile-displayphoto-scale_200_200/B4DZwkGANQJQAY-/0/1770132084597?e=1772668800&v=beta&t=JXVI1JkY5Vok5Gip6MjtcPyBP1qmrYnVVt2CPufIjMU]) |
-| **Ofentse Mashau** | **Kuhlula Madumo** | **Selaelo Langa** |
-| Founder & CEO | Co-Founder & COO | Chief Technology Officer |
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQEwW12etrXvlQ/profile-displayphoto-scale_200_200/B4DZwnLQf.KkAY-/0/1770183791174?e=1772668800&v=beta&t=NeDCrc06-id_CwZCjEIVmatqTvX2CF32aMx80rKbWgw" width="150" style="border-radius: 50%;" /><br />
+      <b>Ofentse Mashau</b><br />
+      Founder & CEO
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGTzjIv_r9MPQ/profile-displayphoto-scale_200_200/B4DZxRmKCaI8AY-/0/1770895489520?e=1772668800&v=beta&t=xeNU-mu6CQJwoUYJrmzKTMpCMAxKESv1x9I2aPebKu8" width="150" style="border-radius: 50%;" /><br />
+      <b>Kuhlula Madumo</b><br />
+      Co-Founder & COO
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQEdzj_yzXyPWw/profile-displayphoto-scale_200_200/B4DZwkGANQJQAY-/0/1770132084597?e=1772668800&v=beta&t=JXVI1JkY5Vok5Gip6MjtcPyBP1qmrYnVVt2CPufIjMU" width="150" style="border-radius: 50%;" /><br />
+      <b>Selaelo Langa</b><br />
+      Chief Technology Officer
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <br />
 
